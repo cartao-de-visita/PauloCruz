@@ -263,6 +263,17 @@
     padding-left: 25rem;
     padding-right: 25rem;
   }
+  
+  
+  .menu ul {
+    justify-content: center;
+  }
+  
+  .menu a {
+    padding: 6px 100px;
+  }
+  
+  
 }
 
 
